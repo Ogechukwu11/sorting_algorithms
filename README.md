@@ -4,23 +4,23 @@
 
 Sorting algorithms are essential tools in computer science for arranging elements in a specific order. The efficiency of sorting algorithms is often evaluated based on their time complexity, which is expressed using Big O notation.
 
-- [Bubble Sort](#bubble sort)
+- Bubble Sort:
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process is repeated until the list is sorted.
 
-- [Selection Sort](#selection sort)
+- Selection Sort:
 
 Selection Sort divides the list into a sorted and an unsorted region. It repeatedly selects the smallest (or largest) element from the unsorted region and swaps it with the first element of the unsorted region.
 
-- [Insertion Sort](#insertion sort)
+- Insertion Sort:
 
 Insertion Sort builds the final sorted array one item at a time. It takes each element and places it in its correct position within the sorted part of the array.
 
-- [Quick Sort](#quick sort)
+- Quick Sort:
 
 Quick Sort also uses the divide-and-conquer approach. It selects a "pivot" element and partitions the other elements into two sub-arrays according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively.
 
-- [Merge Sort](#merge sort)
+- Merge Sort:
 
 Merge Sort follows the divide-and-conquer paradigm. It recursively divides the array into two halves, sorts them independently, and then merges the sorted halves to produce a fully sorted array.
 
