@@ -1,6 +1,6 @@
 # Sorting Algorithms & Big O Notation
 
-![Alt text] (https://github.com/Ogechukwu11/sorting_algorithms/blob/ded2b5a2a5ecd36d52ea89dbebaaea22275d3be3/Screenshot%20(122).png)
+![Alt text] (https://github.com/Ogechukwu11/sorting_algorithms/blob/ded2b5a2a5ecd36d52ea89dbebaaea22275d3be3/Screenshot%20(122.png)
 
 ## Sorting Algorithms
 
