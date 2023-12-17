@@ -1,5 +1,7 @@
 # Sorting Algorithms & Big O Notation
 
+![Alt text] (https://github.com/Ogechukwu11/sorting_algorithms/blob/ded2b5a2a5ecd36d52ea89dbebaaea22275d3be3/Screenshot%20(122).png)
+
 ## Sorting Algorithms
 
 Sorting algorithms are essential tools in computer science for arranging elements in a specific order. The efficiency of sorting algorithms is often evaluated based on their time complexity, which is expressed using Big O notation.
